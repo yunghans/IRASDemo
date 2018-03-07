@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRASDemo", "IRASDemo\IRASDemo.csproj", "{448CC17C-0886-49FA-99BA-2F8B0DBC359E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestProject", "MyTestProject\MyTestProject.csproj", "{159431E9-669D-4583-9B2D-11571501530C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448CC17C-0886-49FA-99BA-2F8B0DBC359E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448CC17C-0886-49FA-99BA-2F8B0DBC359E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448CC17C-0886-49FA-99BA-2F8B0DBC359E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448CC17C-0886-49FA-99BA-2F8B0DBC359E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159431E9-669D-4583-9B2D-11571501530C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159431E9-669D-4583-9B2D-11571501530C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159431E9-669D-4583-9B2D-11571501530C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159431E9-669D-4583-9B2D-11571501530C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
